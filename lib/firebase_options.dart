@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBIH09vd1Lq0zwneaWLIOmfKG0FmdcsrbE',
-    appId: '1:586227829589:android:98c121ce216d847fab3ddc',
-    messagingSenderId: '586227829589',
-    projectId: 'fooddelivery-12fdc',
-    storageBucket: 'fooddelivery-12fdc.appspot.com',
+    apiKey: 'Add yours',
+    appId: 'Add yours',
+    messagingSenderId: 'Add yours',
+    projectId: 'Add yours',
+    storageBucket: 'Add yours',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBwKpZ3-FKTZXVBpoM1WlkuFJcmUp9FEgY',
-    appId: '1:586227829589:ios:dc35818a00fe756dab3ddc',
-    messagingSenderId: '586227829589',
-    projectId: 'fooddelivery-12fdc',
-    storageBucket: 'fooddelivery-12fdc.appspot.com',
-    iosBundleId: 'com.example.foodDelivery',
+    apiKey: 'Add yours',
+    appId: 'Add yours',
+    messagingSenderId: 'Add yours',
+    projectId: 'Add yours',
+    storageBucket: 'Add yours',
+    iosBundleId: 'Add yours',
   );
 }
